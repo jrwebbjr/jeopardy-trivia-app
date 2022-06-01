@@ -4,8 +4,7 @@ import AnswerBtn from "../../components/AnswerBtn";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Welcome to Jeopardy!</h1>
+    <div className="w-screen h-screen bg-gray-800 text-white font-jeopardy">
       <AnswerBtn />
     </div>
   );
